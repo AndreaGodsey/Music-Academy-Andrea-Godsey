@@ -9,6 +9,7 @@
 /wp-admin
 /wp-includes
 
+
 # Ignore any up* folders in wp-content
 
 /wp-content/up**
