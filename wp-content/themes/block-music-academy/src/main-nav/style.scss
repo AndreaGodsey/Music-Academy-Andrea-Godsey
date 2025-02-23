@@ -6,7 +6,7 @@
  */
 
 .wp-block-custom-blocks-main-nav {
-	background-color: #D9CAAD;
+	background-color: #E94960;
 	color: #fff;
 	padding: 2px;
 
@@ -15,6 +15,10 @@
 		align-items: center;
 		width: 100%;
 		gap: 40px;
+
+		li{
+			text-decoration: none;
+		}
 	}
 
 

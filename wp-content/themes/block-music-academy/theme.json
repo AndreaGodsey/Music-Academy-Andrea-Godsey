@@ -10,10 +10,11 @@
 					"slug": "background",
 					"name": "Background"
 				},
-				{ "color": "#332811", "slug": "text", "name": "Text" },
-				{ "color": "#F0F2A7", "slug": "accent", "name": "Accent" },
-				{ "color": "#D9CAAD", "slug": "primary", "name": "Primary" },
-				{ "color": "#F2E8B3", "slug": "seconday", "name": "Secondary" }
+				{ "color": "#FFD700", "slug": "text", "name": "Text" },
+				{ "color": "#16213E", "slug": "accent", "name": "Accent" },
+				{ "color": "#FFD700", "slug": "primary", "name": "Primary" },
+				{ "color": "#0F3060", "slug": "seconday", "name": "Secondary" },
+				{"color": "#0F3060", "slug": "background", "name": "Background"}
 			]
 		}
 	},

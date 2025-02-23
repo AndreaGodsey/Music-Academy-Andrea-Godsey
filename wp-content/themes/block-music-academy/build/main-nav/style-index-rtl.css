@@ -8,7 +8,7 @@
  * Replace them with your own styles or remove the file completely.
  */
 .wp-block-custom-blocks-main-nav {
-  background-color: #D9CAAD;
+  background-color: #E94960;
   color: #fff;
   padding: 2px;
 }
@@ -17,4 +17,7 @@
   align-items: center;
   width: 100%;
   gap: 40px;
+}
+.wp-block-custom-blocks-main-nav ul li {
+  text-decoration: none;
 }
