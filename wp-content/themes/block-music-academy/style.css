@@ -5,3 +5,8 @@ Description: Theme for Collins Music Academy, showcasing potential in instructor
 Version: 0.1
 */
 
+@media screen and (max-width: 480px) {
+    body {
+    background-color: lightgreen;
+    }
+    }
